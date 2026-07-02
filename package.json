@@ -1,6 +1,6 @@
 {
   "name": "adsparkle-web",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Browser SDK for the AdSparkle affiliate attribution tracking platform. GA/Pixel-style click capture + conversion postbacks. Zero dependencies, UMD, ~10 kB.",
   "main": "adsparkle.js",
   "files": [

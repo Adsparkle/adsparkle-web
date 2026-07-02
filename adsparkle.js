@@ -570,7 +570,7 @@
   adsparkle.setUserId = setUserId;
   adsparkle.flushQueue = flushQueue;
   adsparkle.autoCaptureProductIds = autoCaptureProductIds;
-  adsparkle.version = "2.2.0";
+  adsparkle.version = "2.2.1";
 
   return adsparkle;
 });
