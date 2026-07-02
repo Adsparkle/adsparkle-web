@@ -1,0 +1,29 @@
+{
+  "name": "adsparkle-web",
+  "version": "2.2.0",
+  "description": "Browser SDK for the AdSparkle affiliate attribution tracking platform. GA/Pixel-style click capture + conversion postbacks. Zero dependencies, UMD, ~10 kB.",
+  "main": "adsparkle.js",
+  "files": [
+    "adsparkle.js"
+  ],
+  "keywords": [
+    "adsparkle",
+    "affiliate",
+    "attribution",
+    "tracking",
+    "postback",
+    "conversion",
+    "pixel",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adsparkle/adsparkle-web.git"
+  },
+  "homepage": "https://github.com/Adsparkle/adsparkle-web#readme",
+  "bugs": {
+    "url": "https://github.com/Adsparkle/adsparkle-web/issues"
+  },
+  "license": "MIT",
+  "sideEffects": true
+}
